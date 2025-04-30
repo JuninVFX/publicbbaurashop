@@ -1,4 +1,4 @@
-local AuraHub = loadstring(game:HttpGet('https://raw.githubusercontent.com/JuninVFX/bbhubaura/refs/heads/main/bbhub.lua'))()
+local AuraHub = loadstring(game:HttpGet('https://raw.githubusercontent.com/JuninVFX/bbhubaura/refs/heads/main/bbhub.lua))()
 
 AuraHub:InitializeUI({
     Name = "AuraHub by-JuninVFX",
